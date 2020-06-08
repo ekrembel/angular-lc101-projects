@@ -6,10 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fav-photos.component.css']
 })
 export class FavPhotosComponent implements OnInit {
-  photosTitle = 'Photo/Image Section Title Here';
-  image1 = 'https://www.launchcode.org/assets/icons/trophy-95e8cbe9bfda44123422302951deb1c92a237d39052669b8fbfafec00cb4f608.png';
-  image2 = '';
-  image3 = '';
+  photosTitle = 'My favourite places';
+  image1 = 'https://live.staticflickr.com/7837/46519476835_7f9c820124_b.jpg';
+  image2 = 'https://chrisnelson.ca/photos/var/albums/Ballooning%20Cappadocia%20Turkey/Cappadocia%20Ballooning%20Panorama1.jpg?m=1424924004';
+  image3 = 'https://d12dkjq56sjcos.cloudfront.net/pub/media/wysiwyg/istanbul/17-download-app-banner/BBT-App-download-Istanbul-Panoramic-View.jpg';
 
   constructor() { }
 

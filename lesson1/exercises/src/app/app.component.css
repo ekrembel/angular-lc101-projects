@@ -1,0 +1,11 @@
+* {
+    background-color: khaki;
+}
+.col-3 {
+    border: 1px dashed;
+    padding: 0;
+}
+h2 {
+    text-align: center;
+    color: lightcoral;
+}
