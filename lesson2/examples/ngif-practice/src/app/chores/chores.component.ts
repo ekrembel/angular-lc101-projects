@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ChoresComponent implements OnInit {
    chores = ['Empty dishwasher', 'Complete LaunchCode prep work', 'Buy groceries'];
-   finishedChores = [];
+   finishedChores = ['Load dishwasher', 'Start LaunchCode prep work', 'Put out the trash', 'Check the mailbox'];
 
    trophyImage = 'https://www.launchcode.org/assets/icons/trophy-95e8cbe9bfda44123422302951deb1c92a237d39052669b8fbfafec00cb4f608.png';
 
